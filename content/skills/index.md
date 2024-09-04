@@ -10,16 +10,16 @@
 ---
 ## The Context
 
-Major Projects include:
+Major Project Highlights include:
 
 > Major Travel Company\
-> Custom API service layer on top of AEM as a Cloud Service, which is Adobe's enterprise Content Management System.
+> Custom API service layer on top of a CMS that delivered marketing content across 5 different downstream applications via REST and GraphQL APIs.
 
 > Global Investment Management Firm\
-> Set of microservices that feed financial data to marketing websites with complex business logic
+> Implemented a set of microservices that feed financial data to marketing websites with complex business logic across 3 continents
 
 > Commercial Licensed Music Distributor\
-> Flask app that processes a huge library of licensed music
+> Flask app that processes a huge library of licensed music and allows customers to browse the library and listen to samples
 
 > Counter Strike E-Sports League\
-> Spring boot app that provided an API for stats and league info for a CS:GO league
+> Implemented a REST API and database for stats and league info for a private CS:GO league

@@ -12,21 +12,21 @@
       <link>http://localhost:1313/culture/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/culture/</guid>
-      <description></description>
+      <description>Coming soon&amp;hellip;</description>
     </item>
     <item>
       <title></title>
       <link>http://localhost:1313/leadership/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/leadership/</guid>
-      <description>Test</description>
+      <description>Coming soon&amp;hellip;</description>
     </item>
     <item>
       <title></title>
       <link>http://localhost:1313/skills/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/skills/</guid>
-      <description>Skills The Buzzwords Code: Java, JS/TS, Python, C#&#xA;Tools &amp;amp; Frameworks: Spring Boot, Flask, React, Next.js, Node.js, Alpine.js&#xA;Data &amp;amp; API: PostgreSQL, MySQL, DynamoDB, REST, GraphQL&#xA;DevOps: AWS, Docker, New Relic, Splunk, Github Actions, Bitbucket Pipelines, Cloudfront, Fastly&#xA;The Context Major Projects include:&#xA;Major Travel Company&#xA;Custom API service layer on top of AEM as a Cloud Service, which is Adobe&amp;rsquo;s enterprise Content Management System.&#xA;Global Investment Management Firm&#xA;Set of microservices that feed financial data to marketing websites with complex business logic</description>
+      <description>Skills The Buzzwords Code: Java, JS/TS, Python, C#&#xA;Tools &amp;amp; Frameworks: Spring Boot, Flask, React, Next.js, Node.js, Alpine.js&#xA;Data &amp;amp; API: PostgreSQL, MySQL, DynamoDB, REST, GraphQL&#xA;DevOps: AWS, Docker, New Relic, Splunk, Github Actions, Bitbucket Pipelines, Cloudfront, Fastly&#xA;The Context Major Project Highlights include:&#xA;Major Travel Company&#xA;Custom API service layer on top of a CMS that delivered marketing content across 5 different downstream applications via REST and GraphQL APIs.</description>
     </item>
   </channel>
 </rss>
