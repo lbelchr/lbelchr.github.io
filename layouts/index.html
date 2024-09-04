@@ -1,0 +1,34 @@
+{{ define "main" }}
+
+<h1>About</h1>
+
+<p>
+This is a triumph. I'm writing a note here: "Huge Success". It's hard to overstate
+My satisfaction.
+</p>
+<p>
+    Aperture Science:
+    We do what we must
+    Because we can
+    For the good of all of us
+    Except the ones who are dead
+</p>
+<br/>
+
+<p>
+    Find out more about my <a href="/skills">Skills here</a>
+</p>
+
+<!--<div class="posts-list">-->
+<!--{{ with .Site.GetPage "/skills" }}-->
+<!--    {{ range first 3 (	where .Pages ".Params.private" "!=" true)}}-->
+<!--        <div class="post">-->
+<!--            <p>-->
+<!--                <h1><a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a></h1>-->
+<!--            </p>-->
+<!--        </div>    -->
+<!--    {{ end }}-->
+<!--{{ end }}-->
+<!--</div>-->
+
+{{ end }}
